@@ -1,0 +1,18 @@
+<!DOCTYPE html><html lang="ar" dir="rtl"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>الاشتراكات — حصيف</title>
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;600;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/style.css?v=3002">
+</head><body>
+<header class="header"><div class="container wrap"><div class="brand">
+<img src="../assets/img/hasseef.png"><div><div style="font-weight:900">منصة حصيف</div><div class="subline">الاشتراكات</div></div>
+</div><a class="btn" href="../index.html">الرئيسية</a></div></header>
+<main class="container" style="padding:18px 0">
+<section class="card"><div class="section-title">اختر الباقة</div>
+<div class="grid4">
+<div class="card"><div class="badge solid">تجربة 14 يوم</div><h3>الأساسية</h3><p class="feat">مستخدم واحد — مشروع واحد — وصول سوق المرافق</p><button class="btn btn-primary">ابدأ مجانًا</button></div>
+<div class="card"><h3>المهنية</h3><p class="feat">5 مستخدمين — 10 مشاريع — استشارة شهرية — إدارة مرافق</p><button class="btn btn-primary">اشترك</button></div>
+<div class="card"><h3>المؤسسات</h3><p class="feat">RBAC — تكاملات — لوحات أثر — دعم مخصص</p><a class="btn" href="../modules/support.html">تواصل</a></div>
+<div class="card"><h3>الشركاء الاستراتيجيون</h3><p class="feat">لوحات إشرافية — تنبيهات — تقارير وطنية</p><a class="btn" href="../partners/index.html">اطّلع</a></div>
+</div></section>
+</main><footer class="footer">© Hasseef</footer></body></html>
